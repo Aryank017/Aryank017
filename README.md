@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aryank017
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning PYthon.
+- 🌱 I’m currently learning python and c programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me here's my whatsaap 8237509947.
 - 😄 Pronouns: good in learning fastly.
